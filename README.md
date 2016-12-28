@@ -55,6 +55,7 @@ node server.js
 #Trying the samples
 ##Linkurious
 - start your browser and browse to `http://localhost:8081/basic.html`
-- Enter a gremlin query and hit the `Show` button 
+- Enter a gremlin query and hit the `Show` button
+
 ![LinkuriousGraph](linkurious.gif?raw=true "Linkurious Graph")
 
