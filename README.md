@@ -9,28 +9,7 @@ git clone git@github.com:alaam/linkurious-demo.git
 ```
 
 #Install dependencies
-##Install Linkurious sdk from the Linkuriou site http://http://linkurio.us/toolkit/
-Your keylines-demo dir should look something like this
-
-```
-drwxrwxr-x@ 22   748 Dec 20 09:05 .
-drwxrwxr-x@ 11   374 Dec 20 09:09 ..
--rw-r--r--   1  1855 Dec 20 09:05 README.md
-drwxr-xr-x@ 41  1394 Nov 28 19:31 assets
-drwxrwxr-x@  3   102 Nov 28 19:31 css
-drwxr-xr-x@ 13   442 Nov 28 19:31 fonts
--rw-r--r--   1  1386 Nov 28 14:43 ibm_graph.js
-drwxr-xr-x@  5   170 Nov 28 19:31 images
--rw-r--r--@  1  2628 Nov 28 14:43 index.htm
-drwxrwxr-x@  3   102 Nov 28 19:31 js
-drwxrwxr-x@  5   170 Nov 28 19:31 map
-drwxr-xr-x@  5   170 Nov 28 19:31 ng
--rw-r--r--   1 40792 Nov 28 14:43 nxnw_dataset.json
-drwxr-xr-x@  3   102 Nov 28 19:31 react
--rw-r--r--   1  1974 Nov 28 14:43 schema.json
--rw-r--r--@  1  2677 Dec  8 18:02 server.js
-```
-
+This project requires express to be installed before running the server
 ```
 cd linkurious-demo
 ```
